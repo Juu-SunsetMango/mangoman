@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=mango2
+Description=Theme for SDDM
+Type=sddm-theme
+Version=2.0.0
+MainScript=main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=mango2
+Theme-API=2.11
+QtVersion=6
